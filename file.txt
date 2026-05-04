@@ -1,0 +1,5 @@
+hi there
+Hello world
+golang is fun
+say hellothere again
+hello world
